@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/Avenir.eot?#iefix') format('embedded-opentype'),  url('../fonts/Avenir.woff') format('woff'), url('../fonts/Avenir.ttf')  format('truetype'), url('../fonts/Avenir.svg#Avenir') format('svg');
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    font-family: 'Avenir', Helvetica, sans-serif;
+}
+
+#start {
+    background: #425E66;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+#start h1 {
+    font-size: 42px;
+}
+
+#projects {
+    background: #fff;
+    color: #fff;
+}
+
+#projects h2 {
+    color: #425E66;
+    font-size: 30px;
+}
+
+#projects h3 {
+    font-size: 20px;
+}
+
+#projects p {
+    padding-left: 31%;
+    padding-right: 31%;
+    font-size: 14px;
+}
+
+#project1 
+{
+    float:left;
+    padding-top: 2%;
+    background:#131313;
+    width:25%;
+    height:280px;
+    transition: 0.5s;
+}
+
+#project1:hover
+{
+    background: #fff;
+    color: #000;
+}
+
+#project2 
+{
+    float:left; 
+    padding-top: 2%;
+    background:#757575;
+    width:25%;
+    height:280px;
+    transition: 0.5s;
+}
+
+#project2:hover
+{
+    background: #fff;
+    color: #000;
+}
+
+#project3 
+{
+    float:left; 
+    padding-top: 2%;
+    background:#EDEDED;
+    color: #000;
+    width:25%;
+    height:280px;
+    transition: 0.5s;
+}
+
+#project3:hover
+{
+    background: #fff;
+    color: #000;
+}
+
+#project4 
+{
+    float:left; 
+    padding-top: 2%;
+    background:#71A1B0;
+    width:25%;
+    height:280px;
+    transition: 0.5s;
+}
+
+#project4:hover
+{
+    background: #fff;
+    color: #000;
+}
