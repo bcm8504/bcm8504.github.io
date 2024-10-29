@@ -9,6 +9,6 @@ body {
 }
 
 a {
-    color: #28A1F2;
+    color: inherit;
     text-decoration: none;
 }

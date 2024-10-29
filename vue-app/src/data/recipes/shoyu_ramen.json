@@ -1,0 +1,48 @@
+{
+  "name": "shoyu ramen",
+  "image": "https://via.placeholder.com/150",
+  "ingredients": [
+    {
+      "name": "broth",
+      "quantity": null,
+      "subIngredients": [
+        { "name": "chicken stock", "quantity": "6 cups" },
+        { "name": "green onion whites", "quantity": "1 bunch" },
+        { "name": "garlic", "quantity": "3 cloves" },
+        { "name": "ginger", "quantity": "1 inch" },
+        { "name": "soy sauce", "quantity": "1/4 cup" },
+        { "name": "shiro dashi", "quantity": "2 tbsp" }
+      ]
+    },
+    {
+      "name": "chicken",
+      "quantity": null,
+      "subIngredients": [
+        { "name": "skin-on boneless chicken thighs", "quantity": "4", "notes": "season with garlic powder" },
+        { "name": "soy sauce", "quantity": "1 tbsp" },
+        { "name": "dark soy sauce", "quantity": "1 tbsp" },
+        { "name": "honey", "quantity": "1 tbsp" },
+        { "name": "shiro dashi", "quantity": "1 tbsp" },
+        { "name": "light corn syrup", "quantity": "2 tsp" },
+        { "name": "hoisin", "quantity": "1 tsp" }
+      ]
+    },
+    {
+      "name": "add ins",
+      "quantity": null,
+      "subIngredients": [
+        { "name": "shiitake mushrooms", "quantity": "1/2 lb" },
+        { "name": "green onion greens", "quantity": "1 bunch" },
+        { "name": "toasted sesame oil", "quantity": null },
+        { "name": "soft boiled egg", "quantity": null }
+      ]
+    }
+  ],
+  "instructions": [
+    "prepare the broth by combining all broth ingredients in a pot and simmering for 30 minutes.",
+    "season the chicken thighs and cook until golden brown.",
+    "prepare the add-ins while the broth simmers and the chicken cooks.",
+    "serve the ramen by placing noodles in a bowl, pouring broth over, and adding chicken and toppings."
+  ],
+  "notes": "adjust seasoning to taste."
+}

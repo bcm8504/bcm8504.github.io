@@ -1,0 +1,51 @@
+{
+  "name": "tacos_al_pastor",
+  "image": "https://via.placeholder.com/150",
+  "ingredients": [
+    {
+      "name": "marinade",
+      "subIngredients": [
+        { "name": "guajillo chiles", "quantity": "3", "notes": "seeded and soaked" },
+        { "name": "ancho chile", "quantity": "1", "notes": "seeded and soaked" },
+        { "name": "garlic", "quantity": "3 cloves" },
+        { "name": "white onion", "quantity": "1/2", "notes": "chopped" },
+        { "name": "pineapple juice", "quantity": "1 cup" },
+        { "name": "apple cider vinegar", "quantity": "1/4 cup" },
+        { "name": "orange juice", "quantity": "1/4 cup" },
+        { "name": "achiote paste", "quantity": "2 tbsp" },
+        { "name": "dried oregano", "quantity": "1 tsp" },
+        { "name": "ground cumin", "quantity": "1 tsp" },
+        { "name": "ground cinnamon", "quantity": "1/2 tsp" },
+        { "name": "salt", "quantity": "1 tsp" },
+        { "name": "black pepper", "quantity": "1/2 tsp" }
+      ]
+    },
+    {
+      "name": "meat",
+      "subIngredients": [
+        { "name": "pork shoulder", "quantity": "2 lbs", "notes": "thinly sliced" },
+        { "name": "pineapple", "quantity": "1/2", "notes": "sliced into rings" }
+      ]
+    },
+    {
+      "name": "toppings",
+      "subIngredients": [
+        { "name": "small corn tortillas", "quantity": "12" },
+        { "name": "white onion", "quantity": "1", "notes": "diced" },
+        { "name": "cilantro", "quantity": "1/2 cup", "notes": "chopped" },
+        { "name": "lime wedges", "quantity": "for serving" },
+        { "name": "salsa of choice", "quantity": "for serving" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Make the marinade by blending the guajillo and ancho chiles with garlic, onion, pineapple juice, vinegar, orange juice, achiote paste, oregano, cumin, cinnamon, salt, and black pepper until smooth.",
+    "Marinate the sliced pork shoulder in the mixture for at least 2 hours, preferably overnight.",
+    "Preheat a grill or large skillet over medium-high heat.",
+    "Cook the marinated pork and pineapple slices until charred and caramelized, about 3-4 minutes per side.",
+    "Warm the tortillas on the grill or skillet.",
+    "Assemble the tacos by placing pork and a piece of grilled pineapple on each tortilla.",
+    "Top with diced onion, chopped cilantro, and a squeeze of lime. Serve with salsa."
+  ],
+  "notes": "For the best flavor, marinate the pork overnight and grill over charcoal if possible."
+}
