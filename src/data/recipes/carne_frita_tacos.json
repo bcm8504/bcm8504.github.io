@@ -1,0 +1,70 @@
+{
+  "name": "carne_frita_tacos",
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "name": "olive oil",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "sazon goya",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "pineapple",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "red onion",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "name": "lime",
+      "amount": 20,
+      "unit": "ml"
+    },
+    {
+      "name": "cilantro",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "name": "pickled red onions",
+      "amount": 25,
+      "unit": "g",
+      "optional": true
+    },
+    {
+      "name": "red cabbage",
+      "amount": 30,
+      "unit": "g",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Prepare the pork by seasoning it with olive oil, garlic, and sazon goya.",
+    "Grill or pan-fry the pork tenderloin until cooked through.",
+    "For the salsa, dice the pineapple and red onion, chop the cilantro, and mix with lime juice and salt.",
+    "Serve the pork with pineapple salsa on top and garnish with pickled red onions and red cabbage if desired."
+  ],
+  "notes": "This dish pairs well with warm tortillas or rice."
+}

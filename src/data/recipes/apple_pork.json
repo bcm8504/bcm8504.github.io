@@ -1,0 +1,56 @@
+{
+  "name": "apple pork",
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "name": "pepper",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "name": "apple",
+      "amount": 1
+    },
+    {
+      "name": "pear",
+      "amount": 1
+    },
+    {
+      "name": "red onion",
+      "amount": 1
+    },
+    {
+      "name": "butter",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "red or white wine",
+      "amount": 60,
+      "unit": "ml"
+    }
+  ],
+  "instructions": [
+    "Season the pork chops with salt and pepper.",
+    "Sear the pork chops in a hot pan until cooked through.",
+    "In the same pan, add butter and sauté the apple, pear, and red onion until soft.",
+    "Deglaze the pan with wine and stir in the oyster sauce.",
+    "Serve the pork chops with the pan sauce drizzled on top."
+  ],
+  "notes": "Feel free to adjust the seasoning and ingredients based on your preference."
+}

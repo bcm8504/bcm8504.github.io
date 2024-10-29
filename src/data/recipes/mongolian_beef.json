@@ -1,0 +1,69 @@
+{
+  "name": "mongolian_beef",
+  "servings": 2,
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "name": "ginger",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "name": "green onion",
+      "amount": 1,
+      "unit": "g",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 5,
+      "unit": "g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the flank steak against the grain.",
+    "Mince the garlic and ginger.",
+    "In a bowl, combine soy sauce, water, brown sugar, and hoisin sauce.",
+    "Add the sliced steak and minced garlic and ginger to the bowl and let marinate for 30 minutes.",
+    "In a heated pan, cook the marinated steak until seared on both sides.",
+    "Pour in the remaining marinade and bring to a simmer.",
+    "Add the cornstarch slurry to thicken the sauce, stirring until it reaches desired consistency.",
+    "Garnish with chopped green onion and sesame seeds before serving."
+  ],
+  "notes": "Serve with steamed rice or noodles."
+}
